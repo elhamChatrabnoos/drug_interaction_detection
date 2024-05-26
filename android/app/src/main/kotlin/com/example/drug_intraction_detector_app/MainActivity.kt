@@ -1,0 +1,5 @@
+package com.example.drug_intraction_detector_app
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
